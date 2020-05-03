@@ -1,21 +1,26 @@
-{A PYTHON PROJECT TO UNDERSTAND ELECTRIC CAR USAGE OVER TIME IN DIFFERENT STATIONS}
-{Week-4-Project}, {April 2020}
+PCA on Financial Dataset
+{A PYTHON PROJECT TO PREDICT LIKELIHOOD OF AN INDIVIDUAL HAVING/USING A BANK ACCOUNT}
+{Week-2-Project}, {May2020}
 By {Faithelizabeth Mburuga}
 Description
-{Python notebook answering the Autolib research question on what the most popular hour of the day is for picking up cars}
-
-Setup/Installation Requirements
-Google colab/Jupyter notebook
-Python Basics
-Python Libraries
+Predict likelihood of an individual having/using a bank account
+Experimental Design
+Exploratory Data Analysis.
+Data cleaning
+PCA 
+Prediction Model
+Installation Requirements
+Google colab
+Python basics
+python libraries
 Github
 Known Bugs
-{There are no known bugs in this project}
+(There are no known bugs in this project.)
 
 Technologies Used
 {Python}
 
-Support and Contact Details
-{Any issues, questions or ideas are highly encouraged.
+Support and contact details
+{Any issues, questions,ideas,concerns,or contributions to the code are highly encouraged.
 
 Contacts: fmburuga@gmail.com}
