@@ -8,12 +8,12 @@ Predict likelihood of an individual having/using a bank account
 Exploratory Data Analysis.\
 Data cleaning\
 PCA \
-Prediction Model\
+Prediction Model
 # Installation Requirements
 Google colab\
 Python basics\
 python libraries\
-Github\
+Github
 # Known Bugs
 (There are no known bugs in this project.)
 
@@ -23,4 +23,4 @@ Github\
 # Support and contact details
 {Any issues, questions,ideas,concerns,or contributions to the code are highly encouraged.\
 
-Contacts: fmburuga@gmail.com}\
+Contacts: fmburuga@gmail.com}
