@@ -21,6 +21,6 @@ Github
 {Python}
 
 # Support and contact details
-{Any issues, questions,ideas,concerns,or contributions to the code are highly encouraged.\
+{Any issues, questions,ideas,concerns,or contributions to the code are highly encouraged.
 
 Contacts: fmburuga@gmail.com}
