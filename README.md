@@ -1,6 +1,6 @@
-PCA on Financial Dataset
-{A PYTHON PROJECT TO PREDICT LIKELIHOOD OF AN INDIVIDUAL HAVING/USING A BANK ACCOUNT}
-{Week-2-Project}, {May2020}
+PCA on Financial Dataset\
+{A PYTHON PROJECT TO PREDICT LIKELIHOOD OF AN INDIVIDUAL HAVING/USING A BANK ACCOUNT}\
+{Week-2-Project}, {May2020}\
 By {Faithelizabeth Mburuga}
 Description
 Predict likelihood of an individual having/using a bank account
