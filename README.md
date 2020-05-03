@@ -1,4 +1,4 @@
-PCA on Financial Dataset\
+PCA on Financial Dataset
 # {A PYTHON PROJECT TO PREDICT LIKELIHOOD OF AN INDIVIDUAL HAVING/USING A BANK ACCOUNT}
 {Week-2-Project}, {May2020}\
 By {Faithelizabeth Mburuga}
@@ -15,7 +15,7 @@ Python basics\
 python libraries\
 Github\
 # Known Bugs
-(There are no known bugs in this project.)\
+(There are no known bugs in this project.)
 
 # Technologies Used
 {Python}
